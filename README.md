@@ -1,16 +1,13 @@
-# testo
+# Inttelligent Fashion Assistant (IFA)
 
-A new Flutter project.
+Graduation Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+IFA is a mobile app that makes shopping easier, faster, and more efficient, by giving the user the best suitable clothes options based on fashion rules for different body types and shapes.
 
-A few resources to get you started if this is your first Flutter project:
+Each person has a unique body with a specific height, width, shoulders width, waist, hips-width, and bust size.
+These properties add up to form one of seven specific body shapes, Each body shape has rules and guidelines on what styles and fabrics flatter their body and make them look fashionable.
+Our mission is to match these body shapes with suitable clothes based on these rules and guidelines.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+in order for it to work the backend should be run with it.
